@@ -1,2 +1,2 @@
 # roop.github.com
-![Penguins](https://github.com/preetkaur777/roop.github.com/assets/151994431/dd602111-2f78-4059-9a6d-b8219ffc2655)
+ <img src="C:\Users\Public\Tally.ERP9\Videos\Music\Recorded TV\Pictures\Sample Pictures\Penguins.jpg";>
