@@ -1,2 +1,3 @@
 # roop.github.com
- <img src="C:\Users\Public\Tally.ERP9\Videos\Music\Recorded TV\Pictures\Sample Pictures\Penguins.jpg";>
+ 
+![Penguins](https://github.com/preetkaur777/roop.github.com/assets/151994431/55731744-936d-481f-81df-c3459bf0c490)
