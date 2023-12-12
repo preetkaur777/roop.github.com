@@ -235,8 +235,8 @@ sup {
 }
 
 a {
-    color:#e83e8c;
-    text-decoration:  #e83e8c;
+    color:pink;
+    text-decoration:  pink;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
 }
@@ -248,13 +248,13 @@ a:hover {
 
 a:not([href]):not([tabindex]) {
     color: inherit;
-    text-decoration:  #e83e8c
+    text-decoration: pink
 }
 
 a:not([href]):not([tabindex]):focus,
 a:not([href]):not([tabindex]):hover {
     color: inherit;
-    text-decoration:  #e83e8c
+    text-decoration: pink
 }
 
 a:not([href]):not([tabindex]):focus {
@@ -539,7 +539,7 @@ small {
 .mark,
 mark {
     padding: .2em;
-    background-color:  #e83e8c
+    background-color: pink
 }
 
 .list-unstyled {
@@ -4900,7 +4900,7 @@ tbody.collapse.show {
     -ms-flex-pack: center;
     justify-content: center;
     color: #fff;
-    background-color:  #e83e8c
+    background-color: pink
 }
 
 .progress-bar-striped {
@@ -4986,8 +4986,8 @@ tbody.collapse.show {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color:  #e83e8c;
-    border-color:  #e83e8c
+    background-color:  pink;
+    border-color:  pink
 }
 
 .list-group-flush .list-group-item {
@@ -6028,7 +6028,7 @@ a.bg-dark:hover {
 }
 
 .border-primary {
-    border-color:  #e83e8c!important
+    border-color:  pink!important
 }
 
 .border-secondary {
