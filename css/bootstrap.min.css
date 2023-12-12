@@ -236,7 +236,7 @@ sup {
 
 a {
     color:#e83e8c;
-    text-decoration: pink;
+    text-decoration:  #e83e8c;
     background-color: transparent;
     -webkit-text-decoration-skip: objects
 }
@@ -248,13 +248,13 @@ a:hover {
 
 a:not([href]):not([tabindex]) {
     color: inherit;
-    text-decoration: pink
+    text-decoration:  #e83e8c
 }
 
 a:not([href]):not([tabindex]):focus,
 a:not([href]):not([tabindex]):hover {
     color: inherit;
-    text-decoration: pink
+    text-decoration:  #e83e8c
 }
 
 a:not([href]):not([tabindex]):focus {
@@ -539,7 +539,7 @@ small {
 .mark,
 mark {
     padding: .2em;
-    background-color: pink
+    background-color:  #e83e8c
 }
 
 .list-unstyled {
@@ -4524,8 +4524,8 @@ tbody.collapse.show {
 .page-item.active .page-link {
     z-index: 2;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color:  #e83e8c;
+    border-color:  #e83e8c
 }
 
 .page-item.disabled .page-link {
@@ -4541,7 +4541,7 @@ tbody.collapse.show {
     padding: .5rem .75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #007bff;
+    color:  #e83e8c;
     background-color: #fff;
     border: 1px solid #ddd
 }
@@ -4615,7 +4615,7 @@ tbody.collapse.show {
 
 .badge-primary {
     color: #fff;
-    background-color: #007bff
+    background-color:  #e83e8c
 }
 
 .badge-primary[href]:focus,
@@ -4900,7 +4900,7 @@ tbody.collapse.show {
     -ms-flex-pack: center;
     justify-content: center;
     color: #fff;
-    background-color: #007bff
+    background-color:  #e83e8c
 }
 
 .progress-bar-striped {
@@ -4986,8 +4986,8 @@ tbody.collapse.show {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color:  #e83e8c;
+    border-color:  #e83e8c
 }
 
 .list-group-flush .list-group-item {
@@ -5924,7 +5924,7 @@ button.close {
 }
 
 .bg-primary {
-    background-color: #007bff!important
+    background-color:  #e83e8c!important
 }
 
 a.bg-primary:focus,
@@ -6028,7 +6028,7 @@ a.bg-dark:hover {
 }
 
 .border-primary {
-    border-color: #007bff!important
+    border-color:  #e83e8c!important
 }
 
 .border-secondary {
@@ -8557,7 +8557,7 @@ a.bg-dark:hover {
 }
 
 .text-primary {
-    color: #007bff!important
+    color:  #e83e8c!important
 }
 
 a.text-primary:focus,
