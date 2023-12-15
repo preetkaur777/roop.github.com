@@ -113,7 +113,7 @@ body{
 	line-height: 45px;
 	font-size: 14px;
 	border-radius: 5px 0 0 5px;
-	background: #1A76D1;
+	background: seagreen;
 	text-align: center;
 	color: #fff;
 	top: 0;
@@ -344,7 +344,7 @@ body{
 	bottom: 0;
 	height: 3px;
 	width:0%;
-	background: #1A76D1;
+	background: seagreen;
 	border-radius: 5px 5px 0 0;
 	opacity:0;
 	visibility:hidden;
@@ -358,7 +358,7 @@ body{
 	width: 100%;
 }
 .header .nav li.active a{
-	color:#1A76D1;
+	color:seagreen;
 }
 .header .nav li:hover a:before{
 	opacity:1;
@@ -602,7 +602,7 @@ body{
 	margin-top:150px;
 }
 .slider .single-slider h1 {
-	color: #2C2D3F;
+	color: seagreen;
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -610,10 +610,10 @@ body{
 	line-height: 42px;
 }
 .slider .single-slider h1 span{
-	color:#1a76d1;
+	color:red;
 }
 .slider .single-slider p {
-	color: #2C2D3F;
+	color: darkgreen;
 	margin-top: 27px;
 	font-weight: 400;
 }
@@ -622,7 +622,7 @@ body{
 }
 .slider .single-slider .btn{
 	color:#fff;
-	background:#1a76d1;
+	background:red;
 	font-weight:500;
 	display:inline-block;
 	margin:0;
@@ -632,7 +632,7 @@ body{
 	margin:0;
 }
 .slider .single-slider .btn.primary{
-	background:#2C2D3F;
+	background:green;
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
@@ -650,7 +650,7 @@ body{
 	width: 50px;
 	line-height: 50px;
 	text-align: center;
-	background: #1A76D1;
+	background: green;
 	color: #fff;
 	font-size: 26px;
 	position: absolute;
@@ -705,7 +705,7 @@ body{
 	text-align: left;
 	z-index:3;
 	border-radius:5px;
-	background:#1A76D1;
+	background:pink;
 	 -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -746,7 +746,7 @@ body{
 .schedule .single-schedule .icon i{
 	position: absolute;
 	font-size: 110px;
-	color: #fff;
+	color: blue;
 	 -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -760,22 +760,22 @@ body{
 }
 .schedule .single-schedule span{
 	display:block;
-	color:#fff;
+	color:blue;
 }
 .schedule .single-schedule h4{
 	font-size: 20px;
 	font-weight:600;
 	display:inline-block;
 	text-transform:capitalize;
-	color:#fff;
+	color:blue;
 	margin-top:13px;
 }
 .schedule .single-schedule p{
-	color:#fff;
+	color:blue;
 	margin-top:22px;
 }
 .schedule .single-schedule a {
-	color: #fff;
+	color: blue;
 	margin-top: 25px;
 	font-weight: 500;
 	display: inline-block;
@@ -809,7 +809,7 @@ body{
 }
 .schedule .single-schedule .time-sidual li {
 	display: block;
-	color: #fff;
+	color: blue;
 	width: 100%;
 	margin-bottom:3px;
 }
