@@ -1,0 +1,58 @@
+*{
+	box-sizing: border-box;
+	width: 800px;}
+body{
+	width: 500px;
+	padding: 20px;
+
+}
+}
+	.ooo{
+	margin-bottom: 0px	;
+}
+.www{
+	padding: 1px;
+}
+.aaa{padding: 30px;
+	width: 800pxpx;
+
+}
+ 
+.container{width: 900px;
+	margin-left: 400px;
+	background-color: lightgray;
+
+	border: 1px solid lightgray;
+	border-radius: 4px;
+}
+	.kom {
+		width: 900px;
+	color: aliceblue;
+	background-color: green;
+	padding: 20px;
+	
+}
+input[type="text"]
+input[type="Email"]
+input[type="massage"]
+input[type="subject"]
+select,
+textarea{
+	width: 800px;
+	padding: 10px;
+
+}
+input[type="submit"]
+{
+	background-color: green;
+	color: grey;
+	margin-top: 5px;
+	width: 50px;
+
+	
+	
+
+	
+}
+
+
