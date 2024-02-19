@@ -1,0 +1,44 @@
+*{ padding: 20px;
+    background-color:aqua;
+
+}
+
+.center{
+    text-align: center;
+    color: violet;
+    background-color:palevioletred;
+    font-size: 20px;
+    text-decoration-line: none;
+}
+.line{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+
+.gap{
+
+
+    border: 1px solid black;
+    text-align: center;
+   margin-left: 40px;
+   display:inline-table;
+    width:150px;
+
+  }
+.under{
+    
+}    
+.left{
+    margin-left: 100px;
+}
+.foot{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    background-color:palevioletred;
+    color: blue;
+}
